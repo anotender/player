@@ -1,1 +1,1 @@
-# player
+Simple audio player with ability to download lyrics.
